@@ -3,5 +3,6 @@ public class MainClass {
     {
         System.out.println("Hello java3");
         System.out.println("Hello java4");
+        System.out.println("Hello java4");System.out.println("Hello java6");
     }
 }
